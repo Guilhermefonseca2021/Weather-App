@@ -65,3 +65,24 @@ body {
     align-items: center;
     margin-bottom: 0.6rem;
 }
+
+
+
+#discription-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.6rem 0;
+}
+
+#details-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#details-content #umidity {
+    border-right: 1px solid #fff;
+    margin: 0.6rem;
+    
+}
