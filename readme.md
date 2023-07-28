@@ -32,10 +32,3 @@ This is the repository for the Weather API, a web application that consumes weat
 
 7. The weather information will be displayed on the screen, including temperature, humidity, wind speed, and weather conditions.
 
-## Technologies used
-
-- HTML5
-- CSS3
-- JavaScript
-- AJAX
-
