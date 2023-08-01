@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #8dd0f5;
+    background-image: linear-gradient(to right, #176B87, #DAFFFB);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: #5c54ed;
+    background-color: #64CCC5;
     box-shadow: 1px 5px 5px;
     padding: 2rem;
     color: #fdfdfd;
@@ -52,30 +52,35 @@ body {
 }
 
 /* clima */
-.weather-data {
+#weather-data {
     border-top: 1px solid #fff;
     margin-top: 1.5rem;
     padding-top: 1.5rem;
     text-align: center;
 }
 
-.weather-data h2 {
+#weather-data h2 {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 0.6rem;
 }
 
-.weather-data h2 i {
+#weather-data h2 i {
     font-size: 1rem;
 }
 
-.weather-data span {
+#weather-data span {
     margin: 0.6rem;
 }
 
 #country {
     height: 25px;
+}
+
+#description {
+    font-weight: bold;
+    text-transform: capitalize;
 }
 
 #discription-container {
@@ -91,7 +96,7 @@ body {
     align-items: center;
 }
 
-.details-container #umidity {
+.details-container #humidity {
     border-right: 1px solid #fff;
     margin: 0.6rem;
     padding: 0.6rem;
