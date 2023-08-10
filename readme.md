@@ -31,6 +31,8 @@ This is the repository for the Weather API, a web application that consumes weat
 
 7. The weather information will be displayed on the screen, including temperature, humidity, wind speed, and weather conditions.
 
+<a href="https://weather-app-theta-two-22.vercel.app/"> cliqeu aqui para testar </a>
+
 <img width="960" alt="weatherapp" src="https://github.com/Guilhermefonseca2021/Weather-App/assets/92196697/3f4e7be7-d09b-46a7-8568-60cd314dcc69">
 
 <img width="960" alt="search" src="https://github.com/Guilhermefonseca2021/Weather-App/assets/92196697/c29466ab-4c0f-4f5e-bb67-1912f4fb4885">
