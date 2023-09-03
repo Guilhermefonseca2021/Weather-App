@@ -33,6 +33,5 @@ This is the repository for the Weather API, a web application that consumes weat
 
 <a href="https://weather-app-theta-two-22.vercel.app/"> cliqeu aqui para testar </a>
 
-<img width="960" alt="weatherapp" src="https://github.com/Guilhermefonseca2021/Weather-App/assets/92196697/3f4e7be7-d09b-46a7-8568-60cd314dcc69">
+<img width="1276" alt="presentation" src="https://github.com/Guilhermefonseca2021/Weather-App/assets/92196697/f051f0fd-7ffa-4453-abb8-d80c7113d9de">
 
-<img width="960" alt="search" src="https://github.com/Guilhermefonseca2021/Weather-App/assets/92196697/c29466ab-4c0f-4f5e-bb67-1912f4fb4885">
